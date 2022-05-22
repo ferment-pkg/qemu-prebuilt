@@ -1,0 +1,2 @@
+/Users/alastair/Desktop/Code/ferment/pkgmanager/Installed/qemu/build/meson-private/cmake_ZLIB/CMakeFiles/edit_cache.dir
+/Users/alastair/Desktop/Code/ferment/pkgmanager/Installed/qemu/build/meson-private/cmake_ZLIB/CMakeFiles/rebuild_cache.dir
